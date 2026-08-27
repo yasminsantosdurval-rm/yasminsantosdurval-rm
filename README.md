@@ -1,16 +1,38 @@
-## Hi there 👋
+ Olá, eu sou a Yasmin Santos Durval!
 
-<!--
-**yasminsantosdurval-rm/yasminsantosdurval-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💗 Estudante de Desenvolvimento de Sistemas | SENAI
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Sobre mim:
+
+👩🏻‍💻 Sou estudante de Desenvolvimento de Sistemas no SENAI.
+
+🎀 Este GitHub reúne meus projetos, atividades e experiências durante minha jornada na tecnologia.
+
+💻 Sempre aprendendo algo novo e evoluindo um código de cada vez!
+
+⸻
+
+O que estou estudando:
+
+🗄️ Banco de Dados
+💻 Back-end
+🌐 Linguagem de Marcação
+🧩 Lógica de Programação
+🖥️ Desenvolvimento de Sistemas
+
+⸻
+
+🎀 Minha jornada
+
+🌷 Aprender
+💗 Praticar
+💻 Criar
+✨ Evoluir
+
+⸻
+
+🩷 Obrigada por visitar meu perfil!
+
+୨୧ Desenvolvendo meu futuro através da tecnologia. 💻🎀
