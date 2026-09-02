@@ -26,10 +26,10 @@ O que estou estudando:
 
 🎀 Minha jornada
 
- Aprender
- Praticar
- Criar
- Evoluir
+ Aprender, 
+ Praticar, 
+ Criar, 
+ Evoluir.
 
 ⸻
 
