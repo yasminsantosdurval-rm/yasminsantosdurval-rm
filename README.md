@@ -26,13 +26,13 @@ O que estou estudando:
 
 🎀 Minha jornada
 
-🌷 Aprender
-💗 Praticar
-💻 Criar
-✨ Evoluir
+ Aprender
+ Praticar
+ Criar
+ Evoluir
 
 ⸻
 
 🩷 Obrigada por visitar meu perfil!
 
-୨୧ Desenvolvendo meu futuro através da tecnologia. 💻🎀
+Desenvolvendo meu futuro através da tecnologia. 💻
